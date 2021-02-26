@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "eec687be22deed86",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca5f42e5f73d2ca",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210225.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e24a9f7e6aeca03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae29a86b28909812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0555a16f348323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ea276b49a70ebc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c75e1c6199e1571f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6740967f85483722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56415e24137001f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20210225.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "56d4f4e8e2f913e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20210225.md",
+    "Electrical Engineering/GST.md",
+    "Electrical Engineering/EDS.md",
+    "Electrical Engineering/Untitled.md",
+    "Untitled.md"
+  ]
+}
